@@ -18,10 +18,8 @@ function router(req, res) {
   }
 
   // res.writeHead(201, { 'Content-Type': 'text/plain' });
-
   // // Escribir respuesta al usuario
   // res.write('Hola, ya se usar http de nodejs');
-
   // res.end();
 }
 
